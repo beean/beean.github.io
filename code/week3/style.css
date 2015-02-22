@@ -1,0 +1,37 @@
+body{
+	text-align: center;
+	text-decoration: blink;
+	font-family: Georgia;
+	background-image: url("assets/bg.jpg"); background-attachment: fixed;
+	background-size: 100%;
+	background-position: inherit;
+	color: #FFFFFF
+}
+
+h1{
+	font-family: Lucida;
+}
+
+hr{
+	width: 300px;
+}
+
+ul{
+	font-size: 18px;
+	font-style: normal;
+	letter-spacing: 2px;
+	line-height: 27px;
+	list-style: none;
+	padding: 0px;
+	margin-top: 40px;
+}
+
+a{
+	font-family: times;
+	font-size: 20px;
+	color: #00CC00;
+}
+
+#slogan{
+	font-style: italic;
+}
