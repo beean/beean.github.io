@@ -1,0 +1,53 @@
+html{
+	background: url("assets/bg.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body{
+	text-align: center;
+	color: #FFFFFF
+}
+
+h1{
+	font-family: 'Vollkorn', serif;
+	margin: auto 0;
+}
+
+hr{
+	width: 300px;
+}
+
+h3{
+	font-family: 'Vollkorn', serif;
+	font-size: 24px;
+	margin: auto;
+	padding: 20px;
+}
+
+ul{
+	font-family: 'Oxygen', sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	letter-spacing: 2px;
+	line-height: 27px;
+	list-style: none;
+	padding-left: 0px;
+	padding-bottom: 16px;
+	margin: auto 0;
+}
+
+#slogan{
+	margin-top: 16px;
+	margin-bottom: 16px;
+	font-family: 'Oxygen', sans-serif;
+	font-size: 20px;
+}
+
+#contact{
+	font-size: 20px;
+	font-family: 'Vollkorn', serif;
+	color: #0C0
+}
